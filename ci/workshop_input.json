@@ -5,11 +5,11 @@
     },
     {
         "ParameterKey": "EmailAddress",
-        "ParameterValue": "email@yourdomain.com"
+        "ParameterValue": "davmayd@amazon.com"
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "qsworkshop"
     },
     {
         "ParameterKey": "RemoteAccessCIDR",
